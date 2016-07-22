@@ -383,7 +383,6 @@ msgstr "Новый Фильтр"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:28209
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:28211
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:28212
-#, fuzzy
 msgctxt "Filter"
 msgid "Switch Filter"
 msgstr "Переключить фильтр"
@@ -423,7 +422,6 @@ msgstr "Фильтр"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1085
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:28250
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:28301
-#, fuzzy
 msgctxt "Filter"
 msgid "Update Filter"
 msgstr "Обновить фильтр"
@@ -441,7 +439,6 @@ msgstr "Обновить фильтр"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:28303
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31169
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31171
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Update"
 msgstr "Обновить"
@@ -535,10 +532,9 @@ msgstr "Свернуть фильтр"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1105
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:2923
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:2974
-#, fuzzy
 msgctxt "Filter"
 msgid "Unfold filter"
-msgstr "Развернуть фильтр"
+msgstr "Раскрыть фильтр"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1139
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:10677
@@ -593,7 +589,6 @@ msgid "Partial CVE match"
 msgstr "Частичное соответствие CVE"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1214
-#, fuzzy
 msgctxt "Filter"
 msgid "First result"
 msgstr "Начинать с"
@@ -601,25 +596,21 @@ msgstr "Начинать с"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1222
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:2652
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3224
-#, fuzzy
 msgctxt "Filter"
 msgid "Results per page"
 msgstr "Результатов на страницу"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1230
-#, fuzzy
 msgctxt "Filter"
 msgid "Sort by"
-msgstr "Сортировать по"
+msgstr "Сортировать по колонке"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1285
-#, fuzzy
 msgctxt "Filter"
 msgid "Ascending"
 msgstr "По возрастанию"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1296
-#, fuzzy
 msgctxt "Filter"
 msgid "Descending"
 msgstr "По убыванию"
@@ -627,14 +618,12 @@ msgstr "По убыванию"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1301
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:2664
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3484
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Apply"
 msgstr "Применить"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1313
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1316
-#, fuzzy
 msgctxt "Auto-Refresh"
 msgid "No auto-refresh"
 msgstr "Не обновлять автоматически"
@@ -647,7 +636,6 @@ msgstr "Не обновлять автоматически"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1340
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1345
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1348
-#, fuzzy
 msgctxt "Auto-Refresh"
 msgid "Refresh every"
 msgstr "Обновлять каждые"
@@ -656,7 +644,6 @@ msgstr "Обновлять каждые"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1324
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1329
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1332
-#, fuzzy
 msgctxt "Auto-Refresh"
 msgid "Sec."
 msgstr "Сек."
@@ -665,7 +652,6 @@ msgstr "Сек."
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1340
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1345
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1348
-#, fuzzy
 msgctxt "Auto-Refresh"
 msgid "Min."
 msgstr "Мин."
@@ -744,7 +730,6 @@ msgid "Filter Details"
 msgstr "Подробности Фильтра"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1544
-#, fuzzy
 msgctxt "Trashcan"
 msgid "Cannot move to trashcan."
 msgstr "Нельзя переместить в Корзину"
@@ -754,7 +739,6 @@ msgstr "Нельзя переместить в Корзину"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5000
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:13864
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:30700
-#, fuzzy
 msgctxt "Action Verb"
 msgid "To Trashcan"
 msgstr "В Корзину"
@@ -781,7 +765,6 @@ msgstr "В Корзину"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:26079
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:26086
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:33941
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Edit"
 msgstr "Редактировать"
@@ -800,7 +783,6 @@ msgstr "Редактировать"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:13834
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:25860
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:26104
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Clone"
 msgstr "Копировать"
@@ -810,12 +792,11 @@ msgstr "Копировать"
 #, fuzzy
 msgctxt "Action Message"
 msgid "Permission to clone denied"
-msgstr "В разрешение на копирование отказано"
+msgstr "В разрешении на копирование отказано"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1641
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:25917
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:26161
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Export"
 msgstr "Экспорт"
@@ -847,7 +828,6 @@ msgstr "Экспорт"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:32270
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:32271
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:32276
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Delete"
 msgstr "Удалить"
@@ -857,7 +837,6 @@ msgstr "Удалить"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6982
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:9302
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:12210
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Restore"
 msgstr "Восстановить"
@@ -868,7 +847,6 @@ msgstr "Восстановить"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3772
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3778
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3797
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Resume"
 msgstr "Продолжить"
@@ -878,20 +856,17 @@ msgstr "Продолжить"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3674
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3721
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3739
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Start"
 msgstr "Запустить"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1757
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1758
-#, fuzzy
 msgctxt "Task"
 msgid "Stop"
 msgstr "Остановить"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:1777
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Move To Trashcan"
 msgstr "Перенести в Корзину"
@@ -1118,7 +1093,6 @@ msgstr "со Значением"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:33267
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:33414
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:33957
-#, fuzzy
 msgctxt "Property"
 msgid "Name"
 msgstr "Наименование"
@@ -1244,7 +1218,6 @@ msgstr "Комментарии"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31402
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31418
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31439
-#, fuzzy
 msgctxt "Actions"
 msgid "Actions"
 msgstr "Действия"
@@ -1463,7 +1436,6 @@ msgstr "Текстовый шаблон"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:29240
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:29597
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31437
-#, fuzzy
 msgctxt "Severity"
 msgid "Severity"
 msgstr "Важность"
@@ -1724,7 +1696,6 @@ msgstr ""
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3840
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4566
-#, fuzzy
 msgctxt "Auto-Refresh"
 msgid "Update auto-refresh"
 msgstr "Применить выбранное значение"
@@ -1767,7 +1738,7 @@ msgstr "Цель"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:32346
 msgctxt "Property"
 msgid "Unavailable"
-msgstr ""
+msgstr "Недоступно"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3875
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:3899
@@ -2080,7 +2051,6 @@ msgstr "Исходящий Сетевой Интерфейс"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4115
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:7065
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31435
-#, fuzzy
 msgctxt "Task"
 msgid "Status"
 msgstr "Статус"
@@ -2118,10 +2088,9 @@ msgstr "Завершённые"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4158
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:7076
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31444
-#, fuzzy
 msgctxt "Task|Report"
 msgid "Last"
-msgstr "Конец"
+msgstr "Последний"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4167
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/gsad.xsl:1642
@@ -2244,7 +2213,6 @@ msgstr " на "
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4536
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:29426
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:29432
-#, fuzzy
 msgctxt "Action Verb"
 msgid "Return to default filter view"
 msgstr "Возврат к отображению с фильтром по умолчанию"
@@ -2637,35 +2605,30 @@ msgstr "Задача видна: "
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6756
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6757
-#, fuzzy
 msgctxt "Task"
 msgid "Observing task owned by %1"
-msgstr "Просматриваемая задача принадлежит"
+msgstr "Просматриваемая задача принадлежит %1"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6788
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6851
-#, fuzzy
 msgctxt "Task"
 msgid "View last report for Task %1"
-msgstr "Посмотреть последний отчёт по Задаче "
+msgstr "Посмотреть последний отчёт по Задаче %1"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6807
-#, fuzzy
 msgctxt "Task"
 msgid "Go to the current report"
 msgstr "Перейти к текущему отчёту"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6838
-#, fuzzy
 msgctxt "Task"
 msgid "View list of all finished reports for Task %1"
-msgstr "Просмотреть список всех завершённых отчётов по Задаче "
+msgstr "Просмотреть список всех завершённых отчётов по Задаче %1"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6842
-#, fuzzy
 msgctxt "Task"
 msgid "View list of all reports for Task %1, including unfinished ones"
-msgstr "Просмотреть список всех отчётов по Задаче "
+msgstr "Просмотреть список всех отчётов по Задаче %1, включая незавершенные"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6978
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:12205
@@ -2683,7 +2646,6 @@ msgstr " должно быть восстановлено первым."
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:7071
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31442
-#, fuzzy
 msgctxt "Task|Reports"
 msgid "Total"
 msgstr "Всего"
@@ -2704,7 +2666,6 @@ msgstr "Важность"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:7145
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31438
-#, fuzzy
 msgctxt "Severity"
 msgid "Trend"
 msgstr "Трэнд"
@@ -3424,7 +3385,6 @@ msgstr "Активно"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:10240
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:31401
-#, fuzzy
 msgctxt "Property"
 msgid "Resource Name"
 msgstr "Имя Ресурса"
@@ -8805,10 +8765,9 @@ msgid "Report Details"
 msgstr "Подробности Отчёта"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/dynamic_strings.xsl:209
-#, fuzzy
 msgctxt "Task"
 msgid "View details of Task %1"
-msgstr "Посмотреть последний отчёт по Задаче "
+msgstr "Посмотреть Задачу %1"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/dynamic_strings.xsl:210
 #, fuzzy
@@ -8972,10 +8931,9 @@ msgid "View details of Role %1"
 msgstr "Просмотреть подробности по выявлению продукта"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/dynamic_strings.xsl:241
-#, fuzzy
 msgctxt "Task"
 msgid "Export Task"
-msgstr "Экспортировать объект(ы) типа "
+msgstr "Экспортировать Задачу"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/dynamic_strings.xsl:244
 #, fuzzy
@@ -9400,10 +9358,9 @@ msgid "Permissions for Role \"%1\""
 msgstr "Разрешения для ресурса типа "
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/dynamic_strings.xsl:364
-#, fuzzy
 msgctxt "Task"
 msgid "New Task Filter from current term"
-msgstr " из текущих параметров"
+msgstr "Новый Фильтр Задач из текущих параметров"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/dynamic_strings.xsl:365
 #, fuzzy
@@ -11552,13 +11509,12 @@ msgid "no"
 msgstr "Нет"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/dynamic_strings.xsl:287
-#, fuzzy
 msgctxt "Task"
 msgid "Export %1 filtered Task as XML"
 msgid_plural "Export %1 filtered Tasks as XML"
-msgstr[0] "Экспортировать всё отфильтрованное"
-msgstr[1] "Экспортировать всё отфильтрованное"
-msgstr[2] "Экспортировать всё отфильтрованное"
+msgstr[0] "Экспортировать отфильтрованную Задачу в XML"
+msgstr[1] "Экспортировать %1 отфильтрованные Задачи в XML"
+msgstr[2] "Экспортировать %1 отфильтрованных Задач в XML"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/dynamic_strings.xsl:288
 #, fuzzy
@@ -12102,19 +12058,16 @@ msgid "Backend operation"
 msgstr "Вся Операция"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/gsad.xsl:1668
-#, fuzzy
 msgctxt "Main Menu"
 msgid "Scan Management"
 msgstr "Упр. сканированием"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/gsad.xsl:1718
-#, fuzzy
 msgctxt "Main Menu"
 msgid "Asset Management"
 msgstr "Упр. активами"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/gsad.xsl:1743
-#, fuzzy
 msgctxt "Main Menu"
 msgid "SecInfo Management"
 msgstr "Упр. Базой Знаний"
@@ -12131,13 +12084,11 @@ msgid "All SecInfo"
 msgstr "Вся База Знаний"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/gsad.xsl:1868
-#, fuzzy
 msgctxt "Main Menu"
 msgid "Configuration"
 msgstr "Конфигурация"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/gsad.xsl:1926
-#, fuzzy
 msgctxt "Main Menu"
 msgid "Extras"
 msgstr "Дополнительно"
@@ -12163,7 +12114,6 @@ msgid "CERT Feed"
 msgstr "Подписка CERT"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/gsad.xsl:2002
-#, fuzzy
 msgctxt "Main Menu"
 msgid "Administration"
 msgstr "Администрирование"
@@ -12192,7 +12142,6 @@ msgid "Warning"
 msgstr "Предупреждение"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/gsad.xsl:2368
-#, fuzzy
 msgctxt "Login Message"
 msgid "Your current password does not comply with the password policy:"
 msgstr "Ваш текущий пароль не соответствует парольной политике:"
