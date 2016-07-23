@@ -202,7 +202,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA.
     <xsl:when test="$noclone">
     </xsl:when>
     <xsl:otherwise>
-      <h4>Копирование ресурс типа <xsl:value-of select="$type"/></h4>
+      <h4>Копирование ресурса типа <xsl:value-of select="$type"/></h4>
       <p>
        Нажав на иконку копирования
        <img src="/img/clone.png" alt="Clone" title="Копировать"/>,
@@ -785,7 +785,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA.
           <td>Базовый агент для Windows SLAD.</td>
         </tr>
         <tr class="odd">
-          <td>Установщие</td>
+          <td>Установщик</td>
           <td>да</td>
           <td>--</td>
           <td>Файл</td>
