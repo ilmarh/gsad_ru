@@ -2359,7 +2359,6 @@ msgstr "необязательно"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5315
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6020
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6047
-#, fuzzy
 msgctxt "Task"
 msgid "Scan Targets"
 msgstr "Цели Сканирования"
@@ -2374,25 +2373,21 @@ msgid "Create Task"
 msgstr "Создать Задачу"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5422
-#, fuzzy
 msgctxt "Task"
 msgid "Add results to Asset Management"
 msgstr "Добавить результаты в Управление Активами"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5585
-#, fuzzy
 msgctxt "Task"
 msgid "Maximum concurrently executed NVTs per host"
 msgstr "Максимальное количество одновременно исполняемых NVT на узел"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5595
-#, fuzzy
 msgctxt "Task"
 msgid "Maximum concurrently scanned hosts"
 msgstr "Максимальное количество одновременно сканируемых узлов"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5693
-#, fuzzy
 msgctxt "Task"
 msgid "New Container Task"
 msgstr "Новая Задача-Контейнер"
