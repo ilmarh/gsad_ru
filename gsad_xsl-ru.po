@@ -1918,7 +1918,6 @@ msgstr "Подчинённый"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4082
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5573
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6402
-#, fuzzy
 msgctxt "Task"
 msgid "Order for target hosts"
 msgstr "Порядок целевых узлов"
@@ -1926,7 +1925,6 @@ msgstr "Порядок целевых узлов"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4084
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5576
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6408
-#, fuzzy
 msgctxt "Task|Hosts Ordering"
 msgid "Sequential"
 msgstr "Последовательный"
@@ -1934,7 +1932,6 @@ msgstr "Последовательный"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4085
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5577
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6413
-#, fuzzy
 msgctxt "Task|Hosts Ordering"
 msgid "Random"
 msgstr "Случайный"
@@ -1942,7 +1939,6 @@ msgstr "Случайный"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4086
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5578
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6418
-#, fuzzy
 msgctxt "Task|Hosts Ordering"
 msgid "Reverse"
 msgstr "Обратный"
@@ -1999,7 +1995,6 @@ msgstr "Н/Д"
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:5566
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:6395
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:30172
-#, fuzzy
 msgctxt "Task"
 msgid "Network Source Interface"
 msgstr "Исходящий Сетевой Интерфейс"
@@ -2027,16 +2022,14 @@ msgstr "Отчёты"
 #, fuzzy
 msgctxt "Task"
 msgid "Reports on Task %1"
-msgstr "Отчёты по Задачам"
+msgstr "Отчёты по Задаче %1"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4147
-#, fuzzy
 msgctxt "Task|Report"
 msgid "Current"
 msgstr "Текущий"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4152
-#, fuzzy
 msgctxt "Task|Reports"
 msgid "Finished"
 msgstr "Завершённые"
@@ -2055,10 +2048,9 @@ msgid "Results"
 msgstr "Результаты"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4171
-#, fuzzy
 msgctxt "Task"
 msgid "Results on Task %1"
-msgstr "Результаты Задачи"
+msgstr "Результаты Задаче %1"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4178
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:19653
@@ -2076,10 +2068,9 @@ msgid "Notes"
 msgstr "Заметки"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4182
-#, fuzzy
 msgctxt "Task"
 msgid "Notes on Task %1"
-msgstr "Заметки по Задачам"
+msgstr "Заметки по Задаче %1"
 
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:4189
 #: /home/timo/openvas/src/proj1-trunk/gsa/src/html/classic/omp.xsl:19662
@@ -11451,6 +11442,22 @@ msgstr "Предупреждение"
 msgctxt "Login Message"
 msgid "Your current password does not comply with the password policy:"
 msgstr "Ваш текущий пароль не соответствует парольной политике:"
+
+# <xsl:value-of select="gsa:i18n ('Auto Delete Reports', 'Task')"/>:
+msgctxt "Task"
+msgid "Auto Delete Reports"
+msgstr "Автоматическое Удаление Отчетов"
+
+# <xsl:value-of select="gsa:i18n ('Do not automatically delete reports', 'Task')"/>
+msgctxt "Task"
+msgid "Do not automatically delete reports"
+msgstr "Не удалять отчеты автоматически"
+
+# <xsl:value-of select="gsa:i18n ('Automatically delete oldest reports but always keep newest ', 'Task')"/>
+msgctxt "Task"
+msgid "Automatically delete oldest reports but always keep newest "
+msgstr "Автоматически удалять старые отчеты, оставляя последние "
+
 
 #~ msgctxt "Filter Box"
 #~ msgid "Filter"

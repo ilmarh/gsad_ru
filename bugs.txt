@@ -1,1 +1,9 @@
-New Info Filter from current term По всем менюшкам Базы Знаний
+New Info Filter from current term По всем менюшкам Базы Знаний не отображается
+New Config Filter from current term не отображается в меню Конфигурации Сканирования
+Task run status changed не локализуется
+resource_permissions.html ссылка на раздел помощи не локализуется
+не используется возможности gettext plural для единиц вермени (секунда, минута, час, день, неделя, месяц)
+optional - иногда не переводится
+Resource ID не интернационализируется в Тэгах
+Authentication Type не интернационализируется в управлении пользователями
+Auto Delete Reports не интернационализируется при создании Задачи
